@@ -13,7 +13,7 @@ func main()  {
 		log.Print(err)
 	}
 	fmt.Println("Blong Titles: ")
-	fmt.Printf(blogTitles)
+	fmt.Print(blogTitles)
 	
 }
 
